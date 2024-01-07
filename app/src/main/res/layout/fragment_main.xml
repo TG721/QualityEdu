@@ -71,19 +71,19 @@
         app:layout_constraintVertical_bias="1.0">
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/imageView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/facebook" />
 
         <ImageView
-            android:id="@+id/imageView3"
+            android:id="@+id/imageVie2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/instagram" />
 
         <ImageView
-            android:id="@+id/imageView4"
+            android:id="@+id/imageView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/twitter" />
